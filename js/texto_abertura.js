@@ -17,11 +17,11 @@ function inicio() {
 
 }
 
-function avaliacao(){
+function inicioavaliacao(){
 
     alert("ola avalia")
     console.log("ola avalia avalia no navegador")
 
-
+    inicio()
 
 }
